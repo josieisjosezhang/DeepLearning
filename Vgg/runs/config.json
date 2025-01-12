@@ -1,0 +1,9 @@
+{
+    "device": "cuda",
+    "output_dir": "Vgg/runs",
+    "epoch": 100,
+    "batch_size": 2,
+    "lr": 0.1,
+    "momentum": 0.5,
+    "dropout": 0.5
+}
