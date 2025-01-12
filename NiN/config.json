@@ -1,0 +1,9 @@
+{
+    "output_dir": "outs",
+    "device": "cuda",
+    "lr": 0.0001,
+    "log": "logs",
+    "momentum": 0.5,
+    "batchsize": 2,
+    "epoch": 25
+}
