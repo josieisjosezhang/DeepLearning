@@ -6,3 +6,4 @@
 - [x] NiN
 - [x] Vgg
 - [ ] Faster RCNN
+- [x] ViT
