@@ -7,3 +7,4 @@
 - [x] Vgg
 - [ ] Faster RCNN
 - [x] ViT
+- [x] Swin Transformer
